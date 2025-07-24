@@ -1,27 +1,35 @@
 🌟 Features
+
  
 • Fully responsive design
 
+
 • Filter animals by type using category buttons
+
 
 • Clean layout using template cloning and dynamic content generation with JavaScript
 
+ 
 • Each animal card includes:
 
-   • Image
 
-   • Name, age, and type
+   - Image
 
-   • Description
+   - Name, age, and type
 
-   • Adopt button
+   - Description
+
+   - Adopt button
 
 
 💻 Technologies Used
 
+
 • HTML
 
+
 • CSS
+
 
 • JavaScript
 
